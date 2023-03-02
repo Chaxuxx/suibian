@@ -1,5 +1,6 @@
 # Hello。这里是Github新手实验室。
 用于不会使用github基础功能的菜鸟进行功能实践。（主要是pull request和merge学习）
+临时仓库，一段时间后会删除。
 
 ## 你可以尝试：
 - fork仓库之后
