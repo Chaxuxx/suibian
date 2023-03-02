@@ -25,3 +25,10 @@ fork非空仓库 Chaxuxx/suibian
 后，丁删除原仓库，庄仓库保留成为主仓库。
 
 忽略了一些细节，提交信息也没写全。
+
+20：35
+修改仓库内容，并且创建一个新branch来commit。
+
+自己对新branch的pull request进行merge。
+
+merge成功后提示可以删除新branch了，pull request记录一并从页面消失。
