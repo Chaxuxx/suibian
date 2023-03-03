@@ -3,3 +3,5 @@ ajnskdandsk
 asdiohjaos
 
 change1
+
+commit -a
